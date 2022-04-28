@@ -1,6 +1,6 @@
 ## Demo
 
-https://netflix-clone-e23d2.web.app/
+https://movie-recommendation-60dcd.web.app/
 
 ##
 
